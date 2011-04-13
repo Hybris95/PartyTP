@@ -1,15 +1,13 @@
 package com.hybris.bukkit.party.tp;
 
-import com.hybris.bukkit.party.RequiredPartyPlugin;
+import com.hybris.bukkit.party.api.RequiredPartyPlugin;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.Plugin;
 import java.util.logging.Logger;
-import com.hybris.bukkit.party.Party;
-import com.hybris.bukkit.party.GroupManager;
+import com.hybris.bukkit.party.api.GroupManager;
 
 /**
 * PartyTP plugin for Bukkit (supports Party)
-* @version 0.1a
 * @author Hybris95
 */
 public class PartyTP extends RequiredPartyPlugin

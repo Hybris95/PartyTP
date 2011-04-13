@@ -8,8 +8,8 @@ import org.bukkit.Server;
 import org.bukkit.craftbukkit.CraftServer;
 import org.bukkit.entity.Player;
 
-import com.hybris.bukkit.party.GroupManager;
-import com.hybris.bukkit.party.Group;
+import com.hybris.bukkit.party.api.GroupManager;
+import com.hybris.bukkit.party.api.Group;
 
 import java.util.ArrayList;
 
