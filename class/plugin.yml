@@ -1,0 +1,11 @@
+name: PartyTP
+main: com.hybris.bukkit.party.tp.PartyTP
+version: 0.1a
+website: 
+author: Hybris95
+description: 
+             PartyTP allows leaders to teleport their entire group
+commands:
+    partytp:
+        description: Teleport your members to your position
+        usage: /partytp
